@@ -1,0 +1,25 @@
+{
+  "name": "@streammedev/perfnow",
+  "version": "1.0.0",
+  "description": "A wrapper for performance.now for browser and node support",
+  "main": "index.js",
+  "keywords": [
+    "perforance.now",
+    "performance",
+    "timing"
+  ],
+  "author": "StreamMe",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:StreamMeDev/perfnow"
+  },
+  "scripts": {
+    "test": "happiness && mocha",
+    "prepublish": "npm test"
+  },
+  "devDependencies": {
+    "happiness": "^7.1.2",
+    "mocha": "^3.0.2"
+  }
+}
