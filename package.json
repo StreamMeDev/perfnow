@@ -1,6 +1,6 @@
 {
   "name": "@streammedev/perfnow",
-  "version": "1.0.0-BETA-1",
+  "version": "1.0.0",
   "description": "A wrapper for performance.now for browser and node support",
   "main": "index.js",
   "keywords": [
