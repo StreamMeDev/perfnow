@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/@streammedev/perfnow.svg)](https://npmjs.org/package/@streammedev/perfnow)
 [![NPM Downloads](https://img.shields.io/npm/dm/@streammedev/perfnow.svg)](https://npmjs.org/package/@streammedev/perfnow)
-[![Build Status](https://travis-ci.org/streammedev/perfnow.svg?branch=master)](https://travis-ci.org/streammedev/perfnow)
+[![Build Status](https://api.travis-ci.org/StreamMeDev/perfnow.svg?branch=master)](https://travis-ci.org/streammedev/perfnow)
 [![js-happiness-style](https://img.shields.io/badge/code%20style-happiness-brightgreen.svg)](https://github.com/JedWatson/happiness)
 
 Wraps `performance.now`, `process.hrtime` and `Date.now` to provide a consistent interface for performance timing.  This module is
