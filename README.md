@@ -1,7 +1,7 @@
-# A 'performance.now' wrapper for node and browser support
+# A `performance.now` wrapper for node and browser support
 
-[![NPM Version](https://img.shields.io/npm/v/@streammedev/prefnow.svg)](https://npmjs.org/package/@streammedev/prefnow)
-[![NPM Downloads](https://img.shields.io/npm/dm/@streammedev/prefnow.svg)](https://npmjs.org/package/@streammedev/prefnow)
+[![NPM Version](https://img.shields.io/npm/v/@streammedev/perfnow.svg)](https://npmjs.org/package/@streammedev/perfnow)
+[![NPM Downloads](https://img.shields.io/npm/dm/@streammedev/perfnow.svg)](https://npmjs.org/package/@streammedev/perfnow)
 [![Build Status](https://travis-ci.org/streammedev/perfnow.svg?branch=master)](https://travis-ci.org/streammedev/perfnow)
 [![js-happiness-style](https://img.shields.io/badge/code%20style-happiness-brightgreen.svg)](https://github.com/JedWatson/happiness)
 
@@ -49,7 +49,7 @@ publish a 'pre' version of the package for testing across environments.  To inst
 the following, where the verison number contains the correct 'pre' version:
 
 ```
-$ npm install --save @streamme/perf-now@1.0.0-0
+$ npm install --save @streammedev/perfnow@1.0.0-0
 ```
 
 Running the tests:
