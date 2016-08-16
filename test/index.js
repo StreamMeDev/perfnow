@@ -13,7 +13,7 @@ describe('perfnow', function () {
 		assert(now() < now());
 	});
 	it('should be fast like lightning', function () {
-		assert(Math.abs(now() - now()) < 0.005);
+		assert(Math.abs(now() - now()) < 0.01);
 	});
 	it('should be accurate', function (done) {
 		var n = now();
