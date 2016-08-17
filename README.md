@@ -5,9 +5,9 @@
 [![Build Status](https://api.travis-ci.org/StreamMeDev/perfnow.svg?branch=master)](https://travis-ci.org/streammedev/perfnow)
 [![js-happiness-style](https://img.shields.io/badge/code%20style-happiness-brightgreen.svg)](https://github.com/JedWatson/happiness)
 
-Wraps `performance.now`, `process.hrtime` and `Date.now` to provide a consistent interface for performance timing.  This module is
-based off [work here](https://github.com/myrne/performance-now) but drops support for older browsers and is not written in
-coffeescript.
+Wraps `performance.now` and `process.hrtime` to provide a consistent interface for performance timing.  This module is
+based off [work here](https://github.com/myrne/performance-now) but drops support for older browsers (less than IE11) 
+and is not written in coffeescript.
 
 ## Install
 
